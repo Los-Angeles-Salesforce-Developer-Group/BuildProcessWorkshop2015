@@ -11,8 +11,8 @@ http://git-scm.com/downloads
 ??? (You should have it already if you are running *nix/MacOSX or Cygwin on Windows)
 
 ## Getting ant
-[Binary distributions](http://ant.apache.org/bindownload.cgi)
-[Source distributions (build it!!!)](http://ant.apache.org/srcdownload.cgi)
+* [Binary distributions](http://ant.apache.org/bindownload.cgi)
+* [Source distributions (build it!!!)](http://ant.apache.org/srcdownload.cgi)
 
 ## Getting ivy
-Apache Ivy - Download (try building it from source!!!)[http://ant.apache.org/ivy/download.cgi]
+[Apache Ivy - Download (try building it from source!!!)](http://ant.apache.org/ivy/download.cgi)
