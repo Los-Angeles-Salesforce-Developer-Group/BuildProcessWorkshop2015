@@ -1,0 +1,7 @@
+<project name="echoHello" default="hello">
+
+  <target name="hello">
+    <echo>Hello, world!</echo>
+  </target>
+
+</project>

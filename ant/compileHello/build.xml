@@ -1,0 +1,8 @@
+<project name="compileHello" default="hello">
+
+  <target name="hello">
+    <javac srcdir="."/>
+    <java classname="Hello" classpath="."/>
+  </target>
+
+</project>
