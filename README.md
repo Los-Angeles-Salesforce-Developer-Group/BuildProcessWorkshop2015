@@ -13,8 +13,14 @@ Sample code and other artifacts for the May 18, 2015 meetup of the Los Angeles S
 If you have Windows, I would strongly recommend installing Cygwin:
 http://cygwin.com/install.html
 
+To easily install and update other tools, install [Homebrew](http://brew.sh/) (Mac) or [Chocolatey](https://chocolatey.org/) (Win)
+
 ## Getting git
 http://git-scm.com/downloads
+
+    brew install git
+    or
+    choco install git
 
 ## Getting make
 ??? (You should have it already if you are running *nix/MacOSX or Cygwin on Windows)
@@ -22,6 +28,12 @@ http://git-scm.com/downloads
 ## Getting ant
 * [Binary distributions](http://ant.apache.org/bindownload.cgi)
 * [Source distributions (build it!!!)](http://ant.apache.org/srcdownload.cgi)
-
+```
+brew install ant
+or
+choco install ant
+```
 ## Getting ivy
 [Apache Ivy - Download (try building it from source!!!)](http://ant.apache.org/ivy/download.cgi)
+
+    brew install ivy
