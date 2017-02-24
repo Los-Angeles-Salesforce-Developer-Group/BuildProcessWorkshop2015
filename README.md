@@ -1,6 +1,8 @@
 # BuildProcessWorkshop2015
 Sample code and other artifacts for the May 18, 2015 meetup of the Los Angeles Salesforce Developer Group
 
+Recording of the meeting [here] (https://www.youtube.com/watch?v=xhhVIb285U8)
+
 ## Agenda
 - 6:00pm - Doors open
 - 6:15pm - Welcome/Introduction (Nathan Pepper)
